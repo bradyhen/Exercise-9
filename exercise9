@@ -1,0 +1,9 @@
+git config --global user.name "Braedan Henegar"
+git config --global user.email "brady.henegar@gmail.com"
+git config --global core.editor "YourEditor"
+
+git clone <repository_url>
+
+git add exersise9.py
+git commit -m "Just added a Python script with a basic function"
+git push origin main
